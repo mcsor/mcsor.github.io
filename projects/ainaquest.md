@@ -2,12 +2,11 @@
 layout: project
 type: project
 image: img/blue_planet.jpg
-title: "Bike Lane Bonanza"
-date: 2021
-published: false
+title: "Aina Quest"
+date: 2025
+published: true
 labels:
-  - Canva
-  - Instagram
+  - TypeScript
 summary: "My Climate Crew Cohort III developed and hosted a bike challenge to celebrate the opening of the new bike lane on Oahu."
 ---
 

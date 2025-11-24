@@ -4,7 +4,7 @@ type: project
 image: img/ICSpark.png
 title: "Introducing Me"
 date: 2023
-published: true
+published: false
 labels:
   - HTML
   - CSS
