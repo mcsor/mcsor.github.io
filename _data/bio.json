@@ -32,10 +32,19 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
-      "endDate": "TBD",
+      "endDate": "2025",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Technology Sydney, Sydney, NSW, Australia",
+      "area": "Computer Science",
+      "studyType": "Exchange Student",
+      "startDate": "2025",
+      "endDate": "",
       "courses": [
       ]
     }
