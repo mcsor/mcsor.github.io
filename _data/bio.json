@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Maya Chang",
-    "label": "Student",
-    "picture": "https://github.com/mcsor.png",
-    "email": "mcc9@hawaii.edu",
+    "label": "Software Developer",
+    "picture": "../img/Maya.jpg",
+    "email": "mcsorayama225@gmail.com",
     "phone": "808-369-5008",
     "website": "https://mcsor.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
