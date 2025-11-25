@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/blue_planet.jpg
+image: img/raston-lab-logo.png
 title: "Raston Lab FTMW Spectrometer"
 date: 2025
 published: true
