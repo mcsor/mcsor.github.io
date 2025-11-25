@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/blue_planet.jpg
+image: img/ainaquest-logo.png
 title: "‘ĀinaQuest"
 date: 2025
 published: true
