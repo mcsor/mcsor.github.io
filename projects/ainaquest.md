@@ -7,6 +7,8 @@ date: 2025
 published: true
 labels:
   - TypeScript
+  - AR
+  - Unity
 summary: "My Climate Crew Cohort III developed and hosted a bike challenge to celebrate the opening of the new bike lane on Oahu."
 ---
 
