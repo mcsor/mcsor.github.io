@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/ccle/CCLELogo.png
-title: "Center for Chinese Language Education"
+title: "IHER13"
 date: 2023
 published: true
 labels:
@@ -23,5 +23,6 @@ The IHER13 website was entirely designed, developed, and deployed by me during m
 
 <hr>
 #### [View Deployed Site](https://manoa.hawaii.edu/ccle/iher13/)
+(the website may take a few seconds to load, please be patient)
 
 <hr>

@@ -4,7 +4,7 @@ type: project
 image: img/manoa-recipes/manoa-recipes-logo.png
 title: "Manoa Recipes"
 date: 2023
-published: true
+published: false
 labels:
   - React
   - Bootstrap
