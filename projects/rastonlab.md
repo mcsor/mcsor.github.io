@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/raston-lab-logo.png
+image: img/rastonlab/raston-lab-logo.png
 title: "Raston Lab FTMW Spectrometer"
 date: 2025
 published: true
@@ -16,10 +16,12 @@ summary: "A Fourier Transform MicroWave Scientific Instrument Simulator (FTMW-SI
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/raston-lab-logo.png" class="img-thumbnail" >
+  <img width="500px" src="../img/rastonlab/FTMW-SIS-Working.png" class="img-fluid" >
 </div>
 
-hello
+# Overview
+
+
 
 <hr>
 ### [Click to test out the Simulator](https://ftmw.rastonlab.org/)
