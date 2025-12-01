@@ -44,7 +44,3 @@ This project was the first time I have ever worked on a group coding project.  B
 ### [Site Home Page](https://manoa-recipes.github.io/)
 
 <hr>
-
-### [Deployed Website](https://manoa-recipes.site/)
-
-<hr>
