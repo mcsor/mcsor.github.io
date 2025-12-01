@@ -16,7 +16,7 @@ summary: "A Fourier Transform MicroWave Scientific Instrument Simulator (FTMW-SI
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/rastonlab/FTMW-SIS-Working.png" class="img-fluid" >
+  <img width="650px" src="../img/rastonlab/FTMW-SIS-Working.png" class="img-fluid" >
 </div>
 
 ## Overview

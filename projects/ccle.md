@@ -14,7 +14,7 @@ summary: "The official site for the 13th International Conference on Han-Charact
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/ccle/IHER13-website.png" class="img-fluid" >
+  <img width="700px" src="../img/ccle/IHER13-website.png" class="img-fluid" >
 </div>
 
 ## Overview
