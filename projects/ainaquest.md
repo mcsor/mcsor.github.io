@@ -16,6 +16,8 @@ labels:
 summary: "A mobile app  meant to foster ecological awareness and stewardship using on-device image recognition to identify plants in real time and generate collectible cards."
 ---
 
+## Overview
+
 As my 
 
 <hr>
