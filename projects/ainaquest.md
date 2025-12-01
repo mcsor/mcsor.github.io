@@ -23,7 +23,7 @@ As my
 <hr>
 ## Poster
 <div class="text-center p-4">
-  <img width="500px" src="../img/ainaquest/ainaquest-final-poster.png" class="img-fluid" >
+  <img width="600px" src="../img/ainaquest/ainaquest-final-poster.png" class="img-fluid" >
 </div>
 
 <hr>
