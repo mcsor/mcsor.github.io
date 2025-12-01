@@ -13,7 +13,7 @@ labels:
   - API
   - React
   - GitHub
-summary: "A mobile app  meant to foster ecological awareness and stewardship using on-device image recognition to identify plants in real time and generate collectible cards."
+summary: "A mobile app meant to foster ecological awareness and stewardship using on-device image recognition to identify plants in real time and generate collectible cards."
 ---
 
 <div class="text-center p-4">
@@ -21,7 +21,7 @@ summary: "A mobile app  meant to foster ecological awareness and stewardship usi
 </div>
 
 ## Overview
-In collaboration with ‘ĀinaQuest, I and three other teammates designed and developed a __
+In collaboration with ‘ĀinaQuest, I and three other teammates designed and developed a mobile app that aimed to foster a deeper connection with the natural world - specifically native Hawaiian plants - by turning the real-world act of identifying plants into a collectible plant-card experience.  Through scanning plants, users gain a collectible "plant-mon" card and earn points based on the plant's category (canoe, native, or invasive).  Canoe and native plants earned the user more points while invasive plants earned less.  A leaderboard system was incorporated to encourage ongoing participation and motivate users to explore their environment.
 
 An additional AR component was developed and tested in Unity by me and a teammate that identified photos of plants and generated a corresponding 3D model that the user could move around the screen.  Because of time constraints, only a demo was completed and it was not integrated into the final product.
 
