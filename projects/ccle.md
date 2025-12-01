@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CCLELogo.png
+image: img/ccle/CCLELogo.png
 title: "Center for Chinese Language Education"
 date: 2023
 published: true
@@ -14,7 +14,7 @@ summary: "The official site for the 13th International Conference on Han-Charact
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/CCLELogo.png" class="img-fluid" >
+  <img width="500px" src="../img/ccle/IHER13-website.png" class="img-fluid" >
 </div>
 
 ## Overview
