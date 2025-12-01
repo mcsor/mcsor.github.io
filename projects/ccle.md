@@ -17,9 +17,9 @@ summary: "A website "
   <img width="500px" src="../img/CCLELogo.png" class="img-thumbnail" >
 </div>
 
-# Overview
+## Overview
 
 <hr>
-### [View Deployed Site](https://manoa.hawaii.edu/ccle/iher13/)
+#### [View Deployed Site](https://manoa.hawaii.edu/ccle/iher13/)
 
 <hr>

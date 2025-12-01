@@ -16,12 +16,12 @@ summary: "A Fourier Transform MicroWave Scientific Instrument Simulator (FTMW-SI
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/rastonlab/FTMW-SIS-Working.png" class="img-fluid" >
+  <img width="600px" src="../img/rastonlab/FTMW-SIS-Working.png" class="img-fluid" >
 </div>
 
 ## Overview
 
-
+The gas-phase Fourier Transform MicroWave Scientific Instrument Simulator (FTMW-SIS) is the second scientific simulator developed for the Raston Lab.  It features an interactive interface that encourages the user to explore the main components of a typical cavity based FTMW spectrometer, and it allows for the setup and acquisition of realistic synthetic rotational spectra for a variety of astrophysically relevant molecules (OCS, C6H5CN, HOCH2CH2OH, NH2CONH2, …). This is achieved using line lists generated with PGOPHER, with additional processing steps that incorporate Doppler splitting, line broadening, and noise to closely mimic real experiments.
 
 <hr>
 #### [Click to test out the Simulator](https://ftmw.rastonlab.org/)
